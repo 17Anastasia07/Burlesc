@@ -1,0 +1,57 @@
+body {
+    background: rgb(98, 177, 252);
+  }
+  
+  .logo {
+    background: rgb(212, 137, 255);
+    border: 1px solid rgb(182, 253, 255);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+  }
+  h1 {
+    color: rgb(255, 255, 255);
+  }
+  .block--video {
+    background: linear-gradient(rgb(216, 174, 255), rgb(158, 1, 255));
+  border: 8px solid rgb(207, 51, 255);
+  border-radius: 20px;
+  width: 800px;
+  margin: 0 auto;
+  }
+  h3 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 30px;
+  }
+  .video-1 {
+    width: 350px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  .video-2 {
+    width: 350px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  ul {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    list-style: none;
+    font-size: 25px;
+  }
+ 
+
+  table caption {
+    text-align: left;
+  }
+  table {
+    border-collapse: collapse;
+    margin: auto;
+    border: 5px dashed rgb(254, 254, 254);
+  
+  }
+  table td,
+table th {
+  padding: 10px;
+  border: 2px solid #ffffff;
+}
